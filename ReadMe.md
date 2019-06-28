@@ -7,22 +7,22 @@ We have also included the stimuli we used during our experiment. These were sele
 The created stimuli are again free to use, kindly reference should you do so.
 
 
-File description:
+## File description:
 
 
-Mooney Converter:
+### Mooney Converter:
 Executable python script that creates 500x500pixel Mooney images from any coloured template. 
 This has the final parameters chosen for stimulus creation after pilot testing.
 The script can be used as is with a specified path 
 
-Priors Analysis:
+### Priors Analysis: 
 Jupyter notebook used for all data analysis. 
 Due to patient confidentially the dataset has not been included in the repository at this time. 
 To use this notebook the path to datasets needs to be defined. 
 Otherwise the individual shells can be used separetely adjusted for your dataset.
 
-Test.zip:
+### Test.zip:
 Stimuli used during the test session (prior to main experiment).
 
-MainExperiment.zip:
+### MainExperiment.zip:
 Stimuli used during the main experiement; note that stimuli were randomly selected to be presented over 6 experimental sessions.
