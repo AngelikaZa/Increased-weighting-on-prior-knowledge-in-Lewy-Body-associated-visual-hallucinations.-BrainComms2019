@@ -8,7 +8,7 @@ import cv2
 import numpy as np
 import os, os.path
 
-template_path = r"C:\Users\Angelika\Dropbox\PhD\EXPERIMENTS\01_PriorsAmbiguousStimul\STIMULI\FINAL\Templates"
+template_path = r"<PATH_TO_FILES>"
 size = (500, 500)
 
 templateImgs = []
